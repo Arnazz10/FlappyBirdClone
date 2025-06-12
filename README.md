@@ -5,7 +5,7 @@ This is a simple Flappy Bird clone built in Java using Swing for graphics and us
 ## 🚀 Features
 
 - Simple 2D graphics using Java AWT and Swing  
-- Collision detection with pipes and screen boundaries  
+- Collision detection with pipes and screen boundarie
 - Score tracking  
 - Spacebar controls to flap  
 - Game Over dialog with score display
