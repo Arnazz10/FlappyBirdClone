@@ -1,4 +1,4 @@
-# 🐦 Flappy Bird Clone in Jav
+# 🐦 Flappy Bird Clone in Java
 
 This is a simple Flappy Bird clone built in Java using Swing for graphics and user interaction. It's a lightweight desktop version of the classic Flappy Bird game.
 
