@@ -8,7 +8,7 @@ This is a simple Flappy Bird clone built in Java using Swing for graphics and us
 - Collision detection with pipes and screen boundarie
 - Score tracking  
 - Spacebar controls to flap  
-- Game Over dialog with score displa
+- Game Over dialog with score displayksdnsdn
 
 ## 🖥️ Requirements
 
